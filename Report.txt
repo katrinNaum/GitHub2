@@ -1,1 +1,15 @@
-file
+Summary
+Project name
+Environment
+Severity
+Priority
+Status
+Precondition
+Steps
+Actual result
+Expected result
+Attachmenеts
+
+
+
+
