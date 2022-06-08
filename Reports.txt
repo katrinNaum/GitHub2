@@ -1,0 +1,9 @@
+Summary
+Severity
+Priority
+Environment
+Precondition
+Steps
+Actual result
+Expected result
+Result
